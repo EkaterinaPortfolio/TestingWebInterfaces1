@@ -1,1 +1,1 @@
-CI [![Build status](https://ci.appveyor.com/api/projects/status/l3eh839x3v7wmkwj?svg=true)](https://ci.appveyor.com/project/EkaterinaPortfolio/testingwebinterfaces1-y3e9e)
+CI [![Java CI with Gradle](https://github.com/EkaterinaPortfolio/TestingWebInterfaces1/actions/workflows/gradle.yml/badge.svg)](https://github.com/EkaterinaPortfolio/TestingWebInterfaces1/actions/workflows/gradle.yml)
